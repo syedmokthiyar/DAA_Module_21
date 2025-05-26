@@ -18,9 +18,9 @@ To write a python program to find minimum steps to reach to specific cell in min
 6. If target is reached, return the number of steps.
 ## Program:
 
-Developed by:  GANESH R
+Developed by:  Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 class cell:
