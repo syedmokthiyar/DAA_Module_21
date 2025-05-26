@@ -18,9 +18,9 @@ To write a python program to check whether Hamiltonian path exits in the given g
 
 ## Program:
 
-Developed by:  GANESH R
+Developed by:  Syed Mokkthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 def Hamiltonian_path(adj, N):
