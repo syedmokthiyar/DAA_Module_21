@@ -24,9 +24,10 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 
 
 ## Program:
-Developed by:  GANESH R
+Developed by:  Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
+
 
 ```python
 board = [
